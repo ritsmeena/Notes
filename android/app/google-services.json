@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780723592783",
+    "project_id": "notes-flutter-project-f7711",
+    "storage_bucket": "notes-flutter-project-f7711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780723592783:android:22acc881f16a4cd31d943a",
+        "android_client_info": {
+          "package_name": "com.ritika.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHCd7cP1Y_41nfb5wQqvaxeajfQiMSRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
